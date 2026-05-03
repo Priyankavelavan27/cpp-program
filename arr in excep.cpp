@@ -23,3 +23,5 @@ int main()
 
     return 0;
 }
+//Enter index (0 to 4): 3
+//Element = 40
