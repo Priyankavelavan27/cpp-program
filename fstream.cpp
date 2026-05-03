@@ -34,3 +34,6 @@ int main()
 
     return 0;
 }
+//Characters = 48
+//Words = 10
+//Lines = 4
