@@ -22,3 +22,5 @@ int main()
 
     return 0;
 }
+/*Enter a number: 43
+Square Root = 6.55744*/
