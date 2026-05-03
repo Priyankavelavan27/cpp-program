@@ -16,3 +16,5 @@ int main()
     cout << "Data appended successfully.\n";
     return 0;
 }
+//Enter text to append: priyaka
+//Data appended successfully.
