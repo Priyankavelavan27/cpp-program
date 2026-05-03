@@ -39,3 +39,8 @@ int main()
 
     return 0;
 }
+//Enter number of elements: 3
+//Enter elements:
+//1 2
+//6
+//Numbers written to file successfully.
