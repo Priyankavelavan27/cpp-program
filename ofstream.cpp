@@ -22,3 +22,7 @@ int main()
 
     return 0;
 }
+/*Enter text (type END to stop):
+prianka is end*/
+
+
