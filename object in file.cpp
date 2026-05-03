@@ -37,3 +37,7 @@ int main()
     cout << "Student record saved.\n";
     return 0;
 }
+/*Enter Roll No: 59
+Enter Name: priyanka
+Enter Marks: 92
+Student record saved.*/
