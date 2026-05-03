@@ -22,3 +22,8 @@ int main()
     fin.close();
     return 0;
 }
+//output:
+//File contents:
+//priyanka is END
+
+//priyanka is a bad girl
