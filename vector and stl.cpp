@@ -31,3 +31,16 @@ int main()
 
     return 0;
 }
+/*Enter number of elements: 2
+Enter elements:
+22
+45
+
+Vector Elements:
+22 45
+
+First Element: 22
+Last Element: 45
+
+After Pop_back:
+22 */
