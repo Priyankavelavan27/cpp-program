@@ -23,3 +23,6 @@ int main()
     file.close();
     return 0;
 }
+/*Initial Position: 0
+After seekg(5): 5
+Character at position 5: k */
