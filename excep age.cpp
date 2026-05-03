@@ -21,3 +21,5 @@ int main()
 
     return 0;
 }
+//Enter age: 43
+//Eligible to vote!
