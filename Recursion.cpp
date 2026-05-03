@@ -14,3 +14,5 @@ string s="MMadaMM";
 cout<<rev(0,s);
 return 0;
 }
+//ouyput:
+// 1
