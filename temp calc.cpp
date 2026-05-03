@@ -44,3 +44,9 @@ int main()
 
     return 0;
 }
+/*Enter two integers: 2 3
+Addition: 5
+Subtraction: -1
+Multiplication: 6
+Division: 0
+*/
