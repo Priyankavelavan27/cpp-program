@@ -19,3 +19,7 @@ int main()
     cout << "\nEnd of Input.\n";
     return 0;
 }
+//*Enter a line (end with #):
+//priyanka is a girl#
+//priyanka is a girl
+//*End of Input.
