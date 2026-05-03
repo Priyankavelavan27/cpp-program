@@ -23,3 +23,9 @@ int main()
 
     return 0;
 }
+/*Before Swap: a=10 b=20
+After Swap: a=20 b=10
+
+Before Swap: x=5.5 y=8.8
+After Swap: x=8.8 y=5.5
+*/
