@@ -97,3 +97,47 @@ int main()
         }
     }
 }
+/*
+--- STACK MENU ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 1
+Enter value: 22
+
+--- STACK MENU ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 2
+Popped successfully.
+
+--- STACK MENU ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 3
+Top element = Exception: Stack is Empty!
+
+--- STACK MENU ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 4
+Stack is Empty!
+
+--- STACK MENU ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 5 */
