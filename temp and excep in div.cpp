@@ -26,3 +26,6 @@ int main()
 
     return 0;
 }
+/*Enter two integers: 2 3
+Result = 0
+*/
