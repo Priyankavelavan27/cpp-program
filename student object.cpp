@@ -46,3 +46,14 @@ int main()
     cout << "All records saved.\n";
     return 0;
 }
+/*Enter details of student 1:
+Enter Roll No: 59
+Enter Name: priyanka
+Enter Marks: 92
+
+Enter details of student 2:
+Enter Roll No: 34
+Enter Name: priya33
+Enter Marks: 45
+All records saved.
+*/
