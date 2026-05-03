@@ -13,3 +13,5 @@ int main()
     cout << "Max of 5.5 and 2.2 = " << findMax(5.5, 2.2) << endl;
     return 0;
 }
+/*Max of 10 and 20 = 20
+Max of 5.5 and 2.2 = 5.5*/
